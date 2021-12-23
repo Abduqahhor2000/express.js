@@ -1,0 +1,25 @@
+{
+  "name": "express.js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Abduqahhor2000/express.js.git"
+  },
+  "keywords": [],
+  "author": "Abduqahhor Norimmatov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Abduqahhor2000/express.js/issues"
+  },
+  "homepage": "https://github.com/Abduqahhor2000/express.js#readme",
+  "dependencies": {
+    "express": "^4.17.2",
+    "nodemon": "^2.0.15"
+  }
+}

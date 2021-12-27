@@ -5,7 +5,7 @@ app.use(express.static("public"))
 
 app.set("view engine", "ejs")
 
-app.listen(5000, () => {console.log("server qchu ishlovotti")})
+app.listen(5000, () => {console.log("server qchu ishlovottikuu")})
 
 app.get("/", (req, res, next)=>{
     res.render("index", {title: "salom"})
